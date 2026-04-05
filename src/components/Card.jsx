@@ -30,7 +30,7 @@ const Card = ({ img, title, star, reviews, prevPrice, newPrice, item }) => {
             <AiFillStar />
           </div>
           <span className="text-slate-400 text-xs font-semibold">
-            ({reviews} reviews)
+            {reviews}
           </span>
         </div>
 
