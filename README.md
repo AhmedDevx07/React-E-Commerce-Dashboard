@@ -109,8 +109,14 @@ This project is open source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Ahmed (AhmedDevx07)**
-Frontend Developer | React Enthusiast 🚀
+**Muhammad Ahmed (AhmedDevx07)**
+🚀 Full Stack MERN Developer
+🎨 Passionate about Modern UI/UX & Scalable Web Apps
+
+### 🌐 Connect With Me
+
+* 🐙 GitHub: https://github.com/AhmedDevx07
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07
 
 ---
 
